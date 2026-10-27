@@ -1,4 +1,3 @@
-# orvo-platform.
 # ORVO
 
 ### Discover. Prepare. Achieve.
@@ -7,7 +6,7 @@ ORVO is an integrated platform designed to help students and job seekers discove
 
 ## Problem Statement
 
-Students often need to visit multiple websites to find hackathons, internships, jobs, freelancing opportunities, and the resources needed to prepare for them.
+Students often need to visit multiple websites to find hackathons, internships, jobs, freelancing opportunities, and the resources required to prepare for them.
 
 ## Our Solution
 
@@ -15,29 +14,42 @@ ORVO aims to connect opportunity discovery with learning and preparation, helpin
 
 ## Planned Features
 
-- Opportunity listings with search and filters
-- Hackathons, internships, jobs, and freelancing opportunities
-- Related tutorials and preparation resources
+- Hackathons and competitions
+- Internships and job opportunities
+- Freelancing opportunities
+- Learning resources and preparation materials
+- Search and filters
 - Bookmarks and deadline tracking
 - User dashboard
 - Admin panel for managing opportunities
 
 ## Technology Stack
 
-- Backend: Java, Spring Boot
-- Database: MySQL
-- Frontend: HTML, CSS, JavaScript
-- Version Control: Git and GitHub
+- **Backend:** Java, Spring Boot
+- **Database:** MySQL
+- **Frontend:** HTML, CSS, JavaScript
+- **Version Control:** Git and GitHub
+
+## Team Details
+
+**Team Name:** RUDRAX
+
+**Project Name:** ORVO
+
+### Team Members
+
+1. Dheeraj Mandal
+2. Jatin Lawaniya
+3. Aakash Pal
+4. Abhishek Tyagi
 
 ## Future Scope
 
-- Personalized opportunity recommendations
-- AI-assisted preparation plans
+- AI-based opportunity recommendations
+- Personalized preparation plans
 - Skill-based opportunity matching
-- Project and team collaboration features
+- Project collaboration and team formation
 
-## Team
+## Project Status
 
-RUDRAX
-
-*This project is under development. Features listed above are planned and may change during development.*
+Currently in the planning and initial development stage. Features may evolve as development progresses.
