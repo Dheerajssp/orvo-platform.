@@ -36,11 +36,11 @@ ORVO aims to connect opportunity discovery with learning and preparation, helpin
 
 **Project Name:** ORVO
 
-### Team Members
+#### Team Members
 
 1. Dheeraj Mandal
 2. Jatin Lawaniya
-3. Aakash Pal
+3. Aakash Pal 
 4. Abhishek Tyagi
 
 ## Future Scope
