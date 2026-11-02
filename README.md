@@ -1,6 +1,6 @@
 # ORVO
 
-### Discover. Prepare. Achieve.
+### Discover. Prepare. Achieve!
 
 ORVO is an integrated platform designed to help students and job seekers discover opportunities and access relevant preparation resources in one place.
 
